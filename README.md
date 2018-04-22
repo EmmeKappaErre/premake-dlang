@@ -22,7 +22,7 @@ to your project definition and populate with .d files.
 
 ### APIs ###
 
-* [flags](https://github.com/premake/premake-dlang/wiki/flags)
+* [flags](https://github.com/premake/premake-dlang/wiki/flags) (D)
   * CodeCoverage
   * Deprecated
   * Documentation
@@ -37,6 +37,22 @@ to your project definition and populate with .d files.
   * SymbolsLikeC
   * UnitTest
   * Verbose
+* [flags](https://github.com/premake/premake-dlang/wiki/flags) (C/C++)
+  * CodeCoverage
+  * UnitTest
+  * Verbose
+  * ProfileGC
+  * StackFrame
+  * StackStomp
+  * AllTemplateInst
+  * BetterC
+  * Main
+  * PerformSyntaxCheckOnly
+  * ShowCommandLine
+  * ShowTLS
+  * ShowGC
+  * IgnorePragma
+  * ShowDependencies
 * [versionconstants](https://github.com/premake/premake-dlang/wiki/versionconstants)
 * [versionlevel](https://github.com/premake/premake-dlang/wiki/versionlevel)
 * [debugconstants](https://github.com/premake/premake-dlang/wiki/debugconstants)
